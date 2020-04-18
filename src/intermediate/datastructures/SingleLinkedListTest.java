@@ -51,6 +51,13 @@ public class SingleLinkedListTest {
 		singleLinkedList.remove(90);
 		singleLinkedList.display();
 		printUsingIterator(singleLinkedList);
+		
+		
+		
+		
+		System.out.println("---------------test using objects ---------------------");
+		
+		
 	}
 	
 	private static void printUsingIterator(SingleLinkedListImpl<Integer> singleLinkedList) {
