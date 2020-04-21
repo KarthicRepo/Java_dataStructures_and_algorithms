@@ -14,7 +14,7 @@ public class ArrayPriorityQueue {
 public static void main(String[] args) {
 	
 
-	Queue myQueue= new PriorityQueue(Integer.class, 10);
+	Queue<Integer> myQueue= new PriorityQueue<Integer>(Integer.class, 10);
 	myQueue.enqueue(50);
 	myQueue.enqueue(45);
 	myQueue.enqueue(40);
