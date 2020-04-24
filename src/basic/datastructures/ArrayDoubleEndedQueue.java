@@ -11,7 +11,7 @@ public class ArrayDoubleEndedQueue {
 
 	public static void main(String[] args) {
 
-		DoubleEndedQueue<Integer> myQueue= new DoubleEndQueue(Integer.class, 10);
+		DoubleEndedQueue<Integer> myQueue= new DoubleEndQueue<>(Integer.class, 10);
 		myQueue.addFirst(5);
 		myQueue.addLast(10);
 		myQueue.addFirst(15);
