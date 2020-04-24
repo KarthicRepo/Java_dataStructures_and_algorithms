@@ -1,8 +1,9 @@
 # JavaDataStructuresAndAlgorithms
 
 
-This repository has the common data-structures implemented using JAVA.
-This was implemented all alone by me without any code reference, I've tried my best to put my own logic in most implementation.
+This repository has some of the common data-structures implemented using JAVA.
+All these were implemented without any code reference, with pure uderstading of the internal working,
+I've tried my best to put my own logic in most implementation.
 I have given importance to Generics, so any objects of type comparable can be used in most of the Data-structure.
 
 
